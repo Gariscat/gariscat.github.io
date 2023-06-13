@@ -11,9 +11,9 @@ title                    : "Mr. Xinyu Li"
 title_separator          : "-"
 name                     : &name "Mr. Xinyu Li"
 description              : &description "ML practitioner & Music producer"
-url                      : https://xinyuli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gariscat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinyuli.github.io"
+repository               : "gariscat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "Master of Machine Learning at MBZUAI. Electronic dance music producer."
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "x.li@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       : "https://soundcloud.com/ca7ax-81464132 "
   stackoverflow    : # http://stackoverflow.com/users/123456/username
